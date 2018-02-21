@@ -1,4 +1,4 @@
-# Smart Meter Data Listing
+# Smart Meter Data Catalog
 
 [![Build Status](https://travis-ci.org/smda/smart-meter-data-catalog.svg?branch=master)](https://travis-ci.org/smda/smart-meter-data-catalog)
 
@@ -9,6 +9,10 @@ This is a listing containing Smart Meter related datasets (and code repositories
 ## Contribute to the Listing
 
 If you'd like to contribute to this listing, please go to [Smart Meter Data Portal](https://smda.github.io/smart-meter-data-portal/) and select "Contribute" on the top right conner of the page.
+
+## Edit/Remove Previous Contribution
+
+If you want to edit or remove a previous contribution, go to the `/items` directory, find the file that you've contributed, and edit/delete the file in the Github interface. Or you can simply contact us by submitting a Github issue.
 
 ## Report Problem
 
