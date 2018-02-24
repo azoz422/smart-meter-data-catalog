@@ -1,0 +1,14 @@
+Test Challenge:
+  description: "Test Challenge for Smart Meter"
+  link: http://example.com
+  type: dataset
+  author: "RSLi"
+  contributorGithubHandle: RSLi
+  contributorLinkedinHandle: robertsiweili
+
+  Test Challenge Sample Code:
+    description: "Test Challenge Sample Code for Smart Meter"
+    link: http://example.com
+    type: code
+    externalDatasetsUsed:
+      - "Test Challenge"
