@@ -35,7 +35,7 @@ Indian Dataset for Ambient Water and Energy (iAWE):
 
 Pecan Street Research Institute:
   type: dataset
-  link: http://www.pecanstreet.org
+  link: https://dataport.cloud
   description: "Pecan Street has developed a residential electric use disaggregation algorithm training kit, previously available only to members of its university consortium and clients of its algorithm evaluation service that is now publicly available. This unique kit includes a 15-minute whole home dataset and 1-minute interval circuit-level dataset for packages of 10 to 100 homes in Austin"
 
 REFIT Electrical Load Measurements dataset:
