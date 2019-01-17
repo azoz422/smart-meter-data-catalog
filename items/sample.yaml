@@ -23,11 +23,6 @@ GREEND Dataset:
   link: https://sourceforge.net/projects/greend/
   description: "GREEND is an energy dataset containing power measurements collected from multiple households in Austria and Italy. It provides detailed energy profiles on a per device basis with a sampling rate of 1 Hz. We expect to regularly provide snapshots of the dataset as more data is recorded and measurement platforms deployed. The GREEND dataset is free to use in research and commercial applications. If you want to access the data, please fill out the brief form at http://goo.gl/rtXjxT which will eventually provide you with the credentials to open the dataset archive."
 
-Reference Energy Disaggregation Dataset (REDD):
-  type: dataset
-  link: http://redd.csail.mit.edu
-  description: "This is the home page for the REDD data set. Below you can download an initial version of the data set, containing several weeks of power data for 6 different homes, and high-frequency current/voltage data for the main power supply of two of these homes."
-
 Indian Dataset for Ambient Water and Energy (iAWE):
   type: dataset
   link: http://iawe.github.io
